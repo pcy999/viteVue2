@@ -1,0 +1,22 @@
+{
+  "name": "mainweb",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^3.0.4"
+  },
+  "dependencies": {
+    "qiankun": "^2.7.4",
+    "vite-plugin-vue2": "^2.0.2",
+    "vue": "^2.7.8",
+    "vue-router": "^3.5.4",
+    "vue-template-compiler": "^2.7.8",
+    "vuex": "^3.6.2"
+  }
+}
